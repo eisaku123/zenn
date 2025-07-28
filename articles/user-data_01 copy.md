@@ -11,7 +11,7 @@ description: "記事の説明文"
 # 1. 導入部
 AIの便利さとその裏側
 現在のAIツールの普及状況
-便利さの具体例（ChatGPT、GitHub Copilot、Notion AI等）
+便利さの具体例（ChatGPT、Claude等）
 問題提起：便利すぎることの弊害
 
 ## 2. 失われる4つの能力の詳細分析
