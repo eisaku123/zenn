@@ -1,3 +1,11 @@
+---
+title: "「作れるは作れる」だけど限界もある——AIと3ヶ月でSQL学習サイトを育てた話"
+emoji: "🤖"
+type: "idea"
+topics: ["AI", "SQL", "個人開発", "Next.js"]
+published: true
+---
+
 # 「作れるは作れる」だけど限界もある——AIと3ヶ月でSQL学習サイトを育てた話
 
 ## はじめに
